@@ -1,0 +1,18 @@
+Activity database,Activity code,Activity name,Activity unit,Activity type,Exchange database,Exchange input,Exchange amount,Exchange unit,Exchange type,Exchange uncertainty type,Exchange loc,Exchange scale,Exchange negative,Notes,Variance - Basic,Variance - Pedigree,Variance - Pedigree (Relative,Variance - Pedigree (Scaled),Variance - Total,"CI/2wP, half range of confidence interval",sigma,sigma*,sigma* - basic,sigma* - relative,sigma* - scaled
+balancedb_extended,Concrete production,Concrete production,kilogram,process,balancedb_extended,Concrete production,2316,kilogram,production,,,,,,,,,,0,1,1,0,,,
+balancedb_extended,Concrete production,Concrete production,kilogram,process,balancedb_extended,Cement,176,kilogram,technosphere,2,5.170483995,0.180831413,,,0.02,0.0127,0.000965112,0.00127,0.0327,1.435714775,1.198213159,0.180831413,0.141421356,0.144793343,0.145842381
+balancedb_extended,Concrete production,Concrete production,kilogram,process,balancedb_extended,Water,176,kilogram,technosphere,2,5.170483995,0.180831413,,,0.02,0.0127,0.000965112,0.00127,0.0327,1.435714775,1.198213159,0.180831413,0.141421356,0.144793343,0.145842381
+balancedb_extended,Concrete production,Concrete production,kilogram,process,balancedb_extended,Fine Aggregate,725,kilogram,technosphere,2,6.586171655,0.180831413,,,0.02,0.0127,0.003975604,0.00127,0.0327,1.435714775,1.198213159,0.180831413,0.141421356,0.154840578,0.145842381
+balancedb_extended,Concrete production,Concrete production,kilogram,process,balancedb_extended,Course Aggregate,1169,kilogram,technosphere,2,7.063903961,0.180831413,,,0.02,0.0127,0.00641032,0.0127,0.0327,1.435714775,1.198213159,0.180831413,0.141421356,0.162512521,0.180831413
+balancedb_extended,Concrete production,Concrete production,kilogram,process,balancedb_extended,Fly-ash,70,kilogram,technosphere,2,4.248495242,0.180831413,,,0.02,0.0127,0.000383851,0.000127,0.0327,1.435714775,1.198213159,0.180831413,0.141421356,0.142772026,0.141869658
+balancedb_extended,Cement,Cement,kilogram,process,balancedb_extended,Cement,1,kilogram,production,,,,,,,,,,,,,,,,
+balancedb_extended,Water,Water,kilogram,process,balancedb_extended,Water,1,kilogram,production,,,,,,,,,,,,,,,,
+balancedb_extended,Fine Aggregate,Fine Aggregate,kilogram,process,balancedb_extended,Fine Aggregate,1,kilogram,production,,,,,,,,,,,,,,,,
+balancedb_extended,Course Aggregate,Course Aggregate,kilogram,process,balancedb_extended,Course Aggregate,1,kilogram,production,,,,,,,,,,,,,,,,
+balancedb_extended,Fly-ash,Fly-ash,kilogram,process,balancedb_extended,Fly-ash,1,kilogram,production,,,,,,,,,,,,,,,,
+balancedb_extended,Cement,Cement,kilogram,process,balancedb_extended,Carbon dioxide,0.958,kilogram,biosphere,,,,,,,,,,,,,,,,
+balancedb_extended,Water,Water,kilogram,process,balancedb_extended,Carbon dioxide,0.0010247,kilogram,biosphere,,,,,,,,,,,,,,,,
+balancedb_extended,Fine Aggregate,Fine Aggregate,kilogram,process,balancedb_extended,Carbon dioxide,0.0021,kilogram,biosphere,,,,,,,,,,,,,,,,
+balancedb_extended,Course Aggregate,Course Aggregate,kilogram,process,balancedb_extended,Carbon dioxide,0.003,kilogram,biosphere,,,,,,,,,,,,,,,,
+balancedb_extended,GGBS ,Fly-ash,kilogram,process,balancedb_extended,Carbon dioxide,0.029,kilogram,biosphere,,,,,,,,,,,,,,,,
+balancedb_extended,Carbon dioxide,Carbon dioxide,kilogram,biosphere,balancedb_extended,,,,,,,,,,,,,,,,,,,,
