@@ -1,5 +1,5 @@
 # Mass-Balance-LCA
-This repository contains the code used to calculate mass balances for a concrete production process in Brightway2 (Mutel, 2017). The methodology was developed by Ellie Marsh, Laura Hattam and Stephen Allen to support the journal paper **"[TITLE OF PAPER]" and citation. The work is part of the UNCARB project at the University of Bath (https://researchportal.bath.ac.uk/en/projects/towards-net-zero-carbon-buildings-tackling-uncertainty-when-predi).
+This repository contains the code used to calculate mass balances for a concrete production process in Brightway2 (Mutel, 2017). The methodology was developed by Ellie Marsh, Laura Hattam and Stephen Allen to support the journal paper **"Stochastic error propagation with independent probability distributions in LCA does not preserve mass balances and leads to unusable product compositions – a first quantification" and citation. The work is part of the UNCARB project at the University of Bath (https://researchportal.bath.ac.uk/en/projects/towards-net-zero-carbon-buildings-tackling-uncertainty-when-predi).
 
 The selected unit process is for concrete production, producing 2316 kg (or 1 m3) of concrete, where the mass inputs and their proportions have been based on Miller (2018). The LCA calculation was performed using Brightway2 (Mutel, 2017). 
 
